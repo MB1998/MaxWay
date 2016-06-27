@@ -1,0 +1,6 @@
+D:\Programming\MaxWay\MaxWay\bin\Debug\MaxWay.exe.config
+D:\Programming\MaxWay\MaxWay\bin\Debug\MaxWay.exe
+D:\Programming\MaxWay\MaxWay\bin\Debug\MaxWay.pdb
+D:\Programming\MaxWay\MaxWay\obj\Debug\MaxWay.csprojResolveAssemblyReference.cache
+D:\Programming\MaxWay\MaxWay\obj\Debug\MaxWay.exe
+D:\Programming\MaxWay\MaxWay\obj\Debug\MaxWay.pdb
